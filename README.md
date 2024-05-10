@@ -1,2 +1,2 @@
 # my first
-first test repository
+first test repository in git
